@@ -1,4 +1,16 @@
 
+<div align="center">
+  
+# 🏆 Stanford University & DeepLearning.AI Machine Learning Specialization
+
+
+[![Stanford & DeepLearning.AI Specialization](https://img.shields.io/badge/Certification-Stanford%20%26%20DeepLearning.AI%20ML-blue?style=for-the-badge&logo=stanford)](https://coursera.org/share/0846791822714ae304ddbf7b7ad4ee06)
+[![Status](https://img.shields.io/badge/Progress-03%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/c1b7baee336a8becf2a622e7a44a5293)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
 # 🤖 Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
 
 Welcome to the root repository for **Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning**, the third and final core module of the **Stanford University & DeepLearning.AI Machine Learning Specialization**, taught by Andrew Ng.
@@ -61,3 +73,22 @@ The comprehensive unsupervised, recommender, and reinforcement learning pipeline
 | :---: | :---: | :---: | :---: |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x_Keras-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![Gymnasium](https://img.shields.io/badge/OpenAI_Gym-Lunar_Lander-0081C8?style=flat&logo=openai&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-Matrix_Ops-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-PCA_%26_Cluster-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-Interactive_Labs-FA0F00?style=flat&logo=jupyter&logoColor=white) |
 
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/c1b7baee336a8becf2a622e7a44a5293"><img src="../certificates/003 Coursera Unsupervised Learning, Recommenders, Reinforcement Learning-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/c1b7baee336a8becf2a622e7a44a5293) |
+
+
+</div> 
