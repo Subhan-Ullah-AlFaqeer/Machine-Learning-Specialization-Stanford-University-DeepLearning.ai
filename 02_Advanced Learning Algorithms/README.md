@@ -1,4 +1,16 @@
 
+<div align="center">
+  
+# 🏆 Stanford University & DeepLearning.AI Machine Learning Specialization
+
+
+[![Stanford & DeepLearning.AI Specialization](https://img.shields.io/badge/Certification-Stanford%20%26%20DeepLearning.AI%20ML-blue?style=for-the-badge&logo=stanford)](https://coursera.org/share/0846791822714ae304ddbf7b7ad4ee06)
+[![Status](https://img.shields.io/badge/Progress-02%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/5f7e917e07b66a3eb3a068f42118d71b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
 # 🧠 Course 2: Advanced Learning Algorithms
 
 Welcome to the root repository for **Course 2: Advanced Learning Algorithms**, the second core module of the **Stanford University & DeepLearning.AI Machine Learning Specialization**, taught by Andrew Ng.
@@ -59,3 +71,22 @@ The comprehensive deep learning and ensemble engineering lifecycle executed thro
 | :---: | :---: | :---: | :---: |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x_Keras-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-239120?style=flat&logo=xgboost&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-Vectorized_Calculus-013243?style=flat&logo=numpy&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-Interactive_Labs-FA0F00?style=flat&logo=jupyter&logoColor=white) |
 
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/5f7e917e07b66a3eb3a068f42118d71b"><img src="../certificates/002 Coursera Advanced Learning Algorithms-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/5f7e917e07b66a3eb3a068f42118d71b) |
+
+
+</div> 
