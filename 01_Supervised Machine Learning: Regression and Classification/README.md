@@ -1,4 +1,16 @@
 
+<div align="center">
+  
+# 🏆 Stanford University & DeepLearning.AI Machine Learning Specialization
+
+
+[![Stanford & DeepLearning.AI Specialization](https://img.shields.io/badge/Certification-Stanford%20%26%20DeepLearning.AI%20ML-blue?style=for-the-badge&logo=stanford)](https://coursera.org/share/0846791822714ae304ddbf7b7ad4ee06)
+[![Status](https://img.shields.io/badge/Progress-01%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/6b8480d75791015c36c33dbe530c8bdb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+</div>
+
 # 🎓 Course 1: Supervised Machine Learning - Regression and Classification
 
 Welcome to the root repository for **Course 1: Supervised Machine Learning (Regression and Classification)**, the foundational module of the **Stanford University & DeepLearning.AI Machine Learning Specialization**, taught by Andrew Ng.
@@ -58,3 +70,20 @@ The overall end-to-end machine learning engineering workflow executed throughout
 | :---: | :---: | :---: | :---: |
 | ![NumPy](https://img.shields.io/badge/NumPy-Array_Vectorization-013243?style=flat&logo=numpy&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-11557c?style=flat&logo=python&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-Interactive_Notebooks-FA0F00?style=flat&logo=jupyter&logoColor=white) |
 
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/6b8480d75791015c36c33dbe530c8bdb"><img src="../certificates/001 Supervised Machine Learning: Regression and Classification -1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/6b8480d75791015c36c33dbe530c8bdb) |
+
+
+</div> 
