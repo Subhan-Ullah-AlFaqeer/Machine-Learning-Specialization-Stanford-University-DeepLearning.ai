@@ -1,4 +1,16 @@
+<div align="center">
 
+# 🏆 Stanford University & DeepLearning.AI Machine Learning Specialization
+
+[![Stanford & DeepLearning.AI Specialization](https://img.shields.io/badge/Certification-Stanford%20%26%20DeepLearning.AI%20ML-blue?style=for-the-badge&logo=stanford)](https://coursera.org/share/0846791822714ae304ddbf7b7ad4ee06)
+[![Status](https://img.shields.io/badge/Progress-all%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/0846791822714ae304ddbf7b7ad4ee06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+---
+
+</div>
+
+# Specialization Overview:
 # 🏆 Stanford University & DeepLearning.AI Machine Learning Specialization
 
 Welcome to the root repository for the **Machine Learning Specialization**, a foundational 3-course online program created in collaboration between **Stanford Online** and **DeepLearning.AI**, taught by **Andrew Ng**.
@@ -63,3 +75,22 @@ The unified machine learning engineering lifecycle executed throughout this spec
 | :---: | :---: | :---: | :---: |
 | ![NumPy](https://img.shields.io/badge/NumPy-1.2x-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.x-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x_Keras-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![XGBoost](https://img.shields.io/badge/XGBoost-Gradient_Boosting-239120?style=flat&logo=xgboost&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=flat&logo=python&logoColor=white) | ![Gymnasium](https://img.shields.io/badge/OpenAI_Gym-Lunar_Lander-0081C8?style=flat&logo=openai&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-FA0F00?style=flat&logo=jupyter&logoColor=white) |
 
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/0846791822714ae304ddbf7b7ad4ee06"><img src="certificates/Coursera  Machine Learning Specialization Certificate-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/0846791822714ae304ddbf7b7ad4ee06) |
+
+
+</div> 
